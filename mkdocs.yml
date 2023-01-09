@@ -2,3 +2,27 @@ site_name: Lietuvos šaulių sąjungos teisės aktai
 nav:
   - Home: index.md
   - Etikos Kodeksas: Šaulių etikos kodeksas.md
+theme:
+  name: 'material'
+  #custom_dir: 'theme'
+  #palette:
+  #  primary: '003334'
+  #  accent: 'light green'
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-3
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+#  - stylesheets/codehilite.css
