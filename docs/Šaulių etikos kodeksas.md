@@ -1,3 +1,5 @@
+[Originalus dokumentas](https://www.sauliusajunga.lt/wp-content/uploads/2018/03/etikos-kodeksas_pataisytas.pdf), šio puslapio turinys paskutinį kartą atnaujintas 2023-01-10.
+
 PATVIRTINTA<br>
 LŠS suvažiavimo<br>
 2014 m. birželio 7 d.
