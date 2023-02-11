@@ -25,6 +25,8 @@ theme:
       toggle:
         icon: material/brightness-3
         name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.instant
     #- navigation.sections
@@ -36,3 +38,6 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 #  - stylesheets/codehilite.css
+
+repo_url: https://github.com/LSS-DOK/lss-teises-aktai
+repo_name: lss-teises-aktai
