@@ -1,9 +1,9 @@
 site_name: Lietuvos šaulių sąjungos teisės aktai
 nav:
   - Pradžia: index.md
-  - Etikos Kodeksas: Šaulių etikos kodeksas.md
-  - LŠS statutas: Lietuvos šaulių sąjungos statutas.md
-  - LŠS statuto priedai: Lietuvos šaulių sąjungos statuto priedai.md
+  - Etikos Kodeksas: Sauliu-etikos-kodeksas.md
+  - LŠS statutas: Lietuvos-sauliu-sajungos-statutas.md
+  - LŠS statuto priedai: Lietuvos-sauliu-sajungos-statuto-priedai.md
 theme:
   language: lt
   name: 'material'

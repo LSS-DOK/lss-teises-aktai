@@ -4,9 +4,9 @@
 
 ## 1 PRIEDAS: TIPINĖ LIETUVOS ŠAULIŲ SĄJUNGOS STRUKTŪRA
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/19.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/19.png)
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/20.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/20.png)
 
 ## 2 PRIEDAS: ŠAULIŲ UNIFORMŲ TIPAI
 
@@ -38,7 +38,7 @@
 
 Lauko uniformos dėvėjimo pavyzdžiai:
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/1.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/1.png)
 
 ### II SKYRIUS: IŠEIGINĖ ŠAULIO UNIFORMA
 
@@ -92,11 +92,11 @@ Lauko uniformos dėvėjimo pavyzdžiai:
 
 LŠS išeiginės uniformos dėvėjimo pavyzdžiai:** 
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/2.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/2.png)
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/3.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/3.png)
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/4.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/4.png)
 
 ### III SKYRIUS: GARBĖS SARGYBOS ŠAULIO UNIFORMA
 
@@ -124,7 +124,7 @@ LŠS išeiginės uniformos dėvėjimo pavyzdžiai:**
 
 LŠS Garbės sargybos šaulio uniformos dėvėjimo pavyzdžiai:
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/5.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/5.png)
 
 ___________________________
 
@@ -139,49 +139,49 @@ ___________________________
 
 Šaulio ženklas yra baltos spalvos tamsinto metalo stilizuoto skydo formos ženklas. Jo centre reljefiškas dvigubas kryžius. Ženklo aukštis 47 mm, plotis 27 mm. Ženklas prisukamas to paties metalo veržlele. Šaulio ženklo miniatiūros aukštis 20 mm, plotis 12 mm.  
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/6.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/6.jpeg)
 
 ### II SKYRIUS: ŠAULIO ŽENKLO ANTSIUVAS
 
 Šaulio ženklo antsiuvas – tai žalios spalvos stilizuotas skydas su centre esančiu juodu dvigubu kryžiumi. Skydo kraštas apvestas juodu apvadu. Antsiuvo aukštis 60 mm, plotis 35 mm.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/7.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/7.jpeg)
 
 ### III SKYRIUS: LIETUVOS ŠAULIŲ SĄJUNGOS GARBĖS ŠAULIO ŽENKLAS
 
 Baltos spalvos tamsinto metalo ženklas yra stilizuoto skydo formos. Jo centre reljefiškas dvigubas kryžius. Ženklo skydas apjuostas aukso spalvos, tokios pat formos platesniu skydu, kurio kraštai reljefiškai padalinti spinduliais. Ženklo aukštis 56 mm, plotis 35 mm. Ženklas prisukamas baltos spalvos metalo veržlele. Šaulių sąjungos garbės šaulio miniatiūra – mažesnių matmenų toks pat ženklas: aukštis 24 mm, plotis 15 mm.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/8.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/8.jpeg)
 
 ### IV SKYRIUS: GEDIMINAIČIŲ STULPAI
 
 Gediminaičių stulpai yra aukso spalvos metalo ažūrinis ženklas. Ženklo aukštis 18 mm, plotis 16 mm.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/9.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/9.jpeg)
 
 ### V SKYRIUS: ANTSIUVAS „LIETUVOS VALSTYBĖS VĖLIAVA“
 
 Stačiakampio formos Lietuvos valstybės vėliavos spalvų antsiuvas, apvestas siauru juodu apvadu. Antsiuvo aukštis 30 mm, plotis 50 mm.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/10.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/10.jpeg)
 
 ### VI SKYRIUS: LŠS ŠTABO IR RINKTINIŲ ANTSIUVAI
 
 Su Lietuvos heraldikos komisija suderintas skydo formos antsiuvas su LŠS vado patvirtinta LŠS padalinio simbolika.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/11.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/11.png)
 
 ### VII SKYRIUS: IŠEIGINĖS KEPURĖS IR BERETĖS ŽENKLAS
 
 Išeiginės kepurės priekyje, centre, virš dirželio, tvirtinamas istorinis (1936 metų modelio) ženklas. Beretės ženklas yra aukso spalvos metalo ažūrinis ovalo formos ženklas. Ženklo centre dvigubas reljefiškas kryžius, uždėtas ant stilizuotų ąžuolo lapų vainiko. Ženklo aukštis 40 mm, plotis 34 mm.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/12.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/12.jpeg)
 
 ### VIII SKYRIUS: LAUKO UNIFORMOS KEPURĖS, PANAMOS ŽENKLAS
 
 Kasdienės uniformos kepurės ženklas yra ovalo formos žalios spalvos dugne įkomponuotas juodos spalvos dvigubas kryžius, apjuostas juodos spalvos stilizuotų ąžuolo lapų vainiku. Ženklo aukštis 50 mm, plotis 45 mm.  
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/13.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/13.jpeg)
 
 ### IX SKYRIUS: IŠEIGINĖS ŠAULIO IR GARBĖS SARGYBOS ŠAULIO UNIFORMOS SAGOS
 
@@ -190,7 +190,7 @@ Maža uniformos saga – skritulio formos, aukso spalvos, su reljefišku dvigubu
 Didelė uniformos saga – skritulio formos, aukso spalvos, su reljefišku dvigubu kryžiumi centre ir iš po kryžiaus spinduliuojančiomis linijomis. Sagos skersmuo 22 mm.
 
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/14.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/14.jpeg)
 
 ### X SKYRIUS: VARDINIS ŽENKLAS
 
@@ -200,7 +200,7 @@ Vardiniai ženklai prie išeiginės ir garbės sargybos šaulio uniformų yra ju
 
 Stačiakampė aukso spalvos metalo plokštelė su centre uždėtu to paties metalo reljefišku LŠS simboliu dvigubu reljefišku kryžiumi, kuris uždėtas ant stilizuotų ąžuolo lapų vainiko. Plokštelės aukštis 6 mm, ilgis 65 mm.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/15.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/15.jpeg)
 
 ### XII SKYRIUS: PAREIGŲ ŽENKLAI
 
@@ -219,9 +219,9 @@ Vėliava yra dvipusė, žalios spalvos, 165 cm pločio ir 125 cm aukščio. Iš 
 
 Vėliavos kotas tamsinto ąžuolo, dviejų dalių, per vidurį sutvirtintų auksuoto metalo jungtimi, jo viršuje yra auksuotas ietigalio pavidalo antgalis. Abiejose antgalio plokštumose įkomponuotas auksuotas dvigubas kryžius. Koto viršuje prie antgalio kaspinu surišta valstybės vėliavos spalvų juosta.
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/16.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/16.jpeg)
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/17.jpeg)
+![](pics/Lietuvos-sauliu-sajungos-statutas/17.jpeg)
 
 
 _________________________________
@@ -236,7 +236,7 @@ _________________________________
 Lietuvos šaulių sąjungos ženklas yra mėlynos spalvos skydas su jo viduryje pavaizduotu dvigubu geltonu (aukso spalvos) kryžiumi ir geltonu (aukso spalvos) kraštu. Už skydo sukryžiuoti balti (sidabro spalvos) kalavijas, šautuvas ir daudytė. Skydą juosia geltonas (aukso spalvos) ąžuolo lapų vainikas su dešimčia gilių, po penkias simetriškai išdėstytų kairėje ir dešinėje ąžuolo lapų vainiko pusėse. Virš skydo – geltoni (aukso spalvos) lelijų žiedai, sujungti į vainiką (karūną).
 
 
-![](pics/Lietuvos%20šaulių%20sąjungos%20statutas/18.png)
+![](pics/Lietuvos-sauliu-sajungos-statutas/18.png)
 
 
 ________________________________

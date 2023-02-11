@@ -18,7 +18,7 @@
 
 ## II SKYRIUS: LŠS IR JOS RINKTINIŲ TIPINĖ STRUKTŪRA, RINKTINIŲ IR JŲ PADALINIŲ SUDARYMO TVARKA
 
-3.&nbsp;LŠS sudaro LŠS centrinės institucijos ir rinktinės. Tipinė Lietuvos šaulių sąjungos struktūra pateikta šio statuto [1 priede](Lietuvos šaulių sąjungos statuto priedai.md#1-priedas-tipine-lietuvos-sauliu-sajungos-struktura).
+3.&nbsp;LŠS sudaro LŠS centrinės institucijos ir rinktinės. Tipinė Lietuvos šaulių sąjungos struktūra pateikta šio statuto [1 priede](Lietuvos-sauliu-sajungos-statuto-priedai.md#1-priedas-tipine-lietuvos-sauliu-sajungos-struktura).
 
 4.&nbsp;Paprastai viename aukštesniajame administraciniame vienete – apskrityje – yra viena rinktinė. Rinktinių skaičių ir jų pavadinimus LŠS vado teikimu, suderintu su krašto apsaugos ministru, tvirtina LŠS suvažiavimas. 
 
@@ -628,7 +628,7 @@ Parengtas LŠS veiklos strategijos projektas svarstomas LŠS Centro valdyboje, p
 
 132.4. nuotraukas pagal LŠS vado nustatytus reikalavimus;
 
-132.5. užpildytą šio statuto [6 priede](Lietuvos šaulių sąjungos statuto priedai.md#6-priedas-jaunojo-saulio-asmens-duomenu-anketa) pateiktą šaulio asmens duomenų anketą;
+132.5. užpildytą šio statuto [6 priede](Lietuvos-sauliu-sajungos-statuto-priedai.md#6-priedas-jaunojo-saulio-asmens-duomenu-anketa) pateiktą šaulio asmens duomenų anketą;
 
 132.6. kitus dokumentus, jeigu asmens, pretenduojančio tapti šauliu, tikrinimo metu nustatoma, kad tokie dokumentai reikalingi siekiant įsitikinti, ar asmuo atitinka Lietuvos šaulių sąjungos įstatyme keliamus reikalavimus ir gali tapti šauliu. 
 
@@ -1095,7 +1095,7 @@ LŠS vado, jo pavaduotojų ir rinktinių vadų darbo grafikas nustatomas taip, k
 
 ## XIV SKYRIUS: ŠAULIŲ UNIFORMOS IR SKIRIAMIEJI ŽENKLAI, JŲ DĖVĖJIMO IR NEŠIOJIMO TVARKA
 
-225.&nbsp;Nustatomi šie šaulių uniformų tipai ((2 priedas)[Lietuvos šaulių sąjungos statuto priedai.md#2-priedas-sauliu-uniformu-tipai]):
+225.&nbsp;Nustatomi šie šaulių uniformų tipai ((2 priedas)[Lietuvos-sauliu-sajungos-statuto-priedai.md#2-priedas-sauliu-uniformu-tipai]):
 
 225.1. lauko uniforma;
 
@@ -1137,7 +1137,7 @@ LŠS vado, jo pavaduotojų ir rinktinių vadų darbo grafikas nustatomas taip, k
 
 232.&nbsp;Miręs šaulys LŠS vado sutikimu gali būti laidojamas su šaulio uniforma. Šaulio laidojimo su šaulio uniforma tvarką nustato LŠS vadas.
 
-233.&nbsp;Šaulių uniformos dėvimos su skiriamaisiais ženklais. Šaulių uniformų skiriamieji ženklai ([3 priedas](Lietuvos šaulių sąjungos statuto priedai.md#3-priedas-sauliu-uniformu-skiriamieji-zenklai)) yra šie:
+233.&nbsp;Šaulių uniformos dėvimos su skiriamaisiais ženklais. Šaulių uniformų skiriamieji ženklai ([3 priedas](Lietuvos-sauliu-sajungos-statuto-priedai.md#3-priedas-sauliu-uniformu-skiriamieji-zenklai)) yra šie:
 
 233.1. šaulio ženklas;<br/>
 233.2. šaulio ženklo antsiuvas;<br/>
@@ -1511,7 +1511,7 @@ LŠS vado, jo pavaduotojų ir rinktinių vadų darbo grafikas nustatomas taip, k
 
 309.&nbsp;LŠS vėliava yra pagrindinis LŠS simbolis.
 
-310.&nbsp;LŠS vėliavos etalonas (piešinys ir aprašymas), suderintas su Lietuvos heraldikos komisija, pateiktas šio statuto [4 priede](Lietuvos šaulių sąjungos statuto priedai.md#4-priedas-lietuvos-sauliu-sajungos-veliava).
+310.&nbsp;LŠS vėliavos etalonas (piešinys ir aprašymas), suderintas su Lietuvos heraldikos komisija, pateiktas šio statuto [4 priede](Lietuvos-sauliu-sajungos-statuto-priedai.md#4-priedas-lietuvos-sauliu-sajungos-veliava).
 
 311.&nbsp;Šauliai privalo gerbti LŠS vėliavą, o LŠS vadas privalo užtikrinti, kad vėliava būtų kabinama garbingiausioje vietoje.
 
@@ -1543,7 +1543,7 @@ LŠS vado, jo pavaduotojų ir rinktinių vadų darbo grafikas nustatomas taip, k
 
 *Nr. [V-381](https://www.e-tar.lt/portal/legalAct.html?documentId=bd23b8902ff411e78397ae072f58c508), 2017-05-03, paskelbta TAR 2017-05-04, i. k. 2017-07469*
 
-318.&nbsp;LŠS ženklo etalonas (piešinys ir aprašymas), suderintas su Lietuvos heraldikos, pateiktas šio statuto [5 priede](Lietuvos šaulių sąjungos statuto priedai.md#5-priedas-lietuvos-sauliu-sajungos-zenklas).
+318.&nbsp;LŠS ženklo etalonas (piešinys ir aprašymas), suderintas su Lietuvos heraldikos, pateiktas šio statuto [5 priede](Lietuvos-sauliu-sajungos-statuto-priedai.md#5-priedas-lietuvos-sauliu-sajungos-zenklas).
 
 319.&nbsp;Šauliai privalo gerbti LŠS ženklą. LŠS ženklas turi būti tvarkingas, nesusidėvėjęs ir nesugadintas.
 
