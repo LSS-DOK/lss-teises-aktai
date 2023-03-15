@@ -852,7 +852,7 @@ Pasižadu gerbti žmogaus teises, saugoti man patikėtas paslaptis ir turtą, r�
 
 174.2. būti susipažinusiam su Lietuvos šaulių sąjungos įstatymu, LŠS statutu, Šaulių etikos kodeksu ir kitais LŠS vidaus tvarką, drausmę ir veiklą reglamentuojančiais teisės aktais;
 
-174.3. elgtis ~~tik~~ taip, kad savo veika nežemintų šaulio vardo ir nediskredituotų LŠS;
+174.3. elgtis <del>tik</del> taip, kad savo veika nežemintų šaulio vardo ir nediskredituotų LŠS;
 
 174.4. dėvėti tvarkingą LŠS nario uniformą, kaip reikalauja LŠS vado patvirtintos uniformos dėvėjimo taisyklės;
 
@@ -1095,7 +1095,7 @@ LŠS vado, jo pavaduotojų ir rinktinių vadų darbo grafikas nustatomas taip, k
 
 ## XIV SKYRIUS: ŠAULIŲ UNIFORMOS IR SKIRIAMIEJI ŽENKLAI, JŲ DĖVĖJIMO IR NEŠIOJIMO TVARKA
 
-225.&nbsp;Nustatomi šie šaulių uniformų tipai ((2 priedas)[Lietuvos-sauliu-sajungos-statuto-priedai.md#2-priedas-sauliu-uniformu-tipai]):
+225.&nbsp;Nustatomi šie šaulių uniformų tipai ([2 priedas](Lietuvos-sauliu-sajungos-statuto-priedai.md#2-priedas-sauliu-uniformu-tipai)):
 
 225.1. lauko uniforma;
 
@@ -1143,7 +1143,7 @@ LŠS vado, jo pavaduotojų ir rinktinių vadų darbo grafikas nustatomas taip, k
 233.2. šaulio ženklo antsiuvas;<br/>
 233.3. LŠS garbės šaulio ženklas;<br/>
 233.4. Gediminaičių stulpai;<br/>
-233.5. antsiuvas „Lietuvos valstybės vėliava;<br/>
+233.5. antsiuvas „Lietuvos valstybės vėliava“;<br/>
 233.6. LŠS štabo ir rinktinių antsiuvai;<br/>
 233.7. išeiginės kepurės ir beretės ženklas;<br/>
 233.8. lauko uniformos kepurės, panamos ženklas;<br/>
